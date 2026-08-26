@@ -1,4 +1,4 @@
-# KNURR Website v3
+# KNURR 
 
 Statische Website für Knurr Magenbrot.
 
